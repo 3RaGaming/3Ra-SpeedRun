@@ -1,4 +1,4 @@
---Team PVP [Based on Roboport_PvP_Slow by Klonan]
+--Speedrun [Based on Official-PvP by Klonan]
 --A 3Ra Gaming revision
 if not scenario then scenario = {} end
 if not scenario.config then scenario.config = {} end
